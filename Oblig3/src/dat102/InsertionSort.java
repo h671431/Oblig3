@@ -21,7 +21,7 @@ public class InsertionSort {
 			}
 			a[j +1] = tmp;
 		}
-	}
+	}//t
 
 
 }
