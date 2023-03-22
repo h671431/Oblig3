@@ -21,7 +21,7 @@ public class InsertionSort {
 			}
 			a[j +1] = tmp;
 		}
-	}//t
+	}// dette er en ny endring for å teste
 
 
 }
