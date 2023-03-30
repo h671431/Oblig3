@@ -54,5 +54,3 @@ public class Oppg1a {
 	}
 }
 
-
-}
