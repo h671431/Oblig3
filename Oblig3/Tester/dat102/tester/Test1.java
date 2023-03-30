@@ -13,6 +13,7 @@ class Test1 {
 	@BeforeEach
 	void setUp1() throws Exception {
 	}
+	
 	Integer [] tab1 = {2, 5, 10, 14, 23};		
 	Integer [] tab2 = {9, 3, 10, 14, 12};
 		
